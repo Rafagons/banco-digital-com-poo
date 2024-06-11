@@ -1,4 +1,4 @@
-## 💻📖📚   Criando um Banco Digital com Java e Orientação a Objetos.  💻📖📚
+# 💻📖📚   Criando um Banco Digital com Java e Orientação a Objetos.  💻📖📚
 
 
 ## Descrição
@@ -34,5 +34,5 @@ Mencione as ferramentas que você usou para criar seu projeto
 ---
 
 
-⌨Criado por [Rafagons](https://github.com/Rafagons)
+⌨Criado por [Rafagons](https://github.com/Rafagons) em 06/24.
 
