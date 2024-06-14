@@ -26,7 +26,6 @@ Como sugerido, criei mais classes para o projeto, adicionando nele funções com
 
 ### 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Java JDK 21](https://www.oracle.com/middleeast/java/technologies/downloads/) - Jdk Java Usado.
 * [Visual Studio Code](https://code.visualstudio.com/) - IDE Utilizada para criação e edição do código.
